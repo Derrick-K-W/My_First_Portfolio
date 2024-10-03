@@ -76,7 +76,7 @@ If you'd like to contribute or modify the page:
 
 Contributions are welcome! If you would like to improve the project or fix any issues, feel free to submit a pull request.
 
-Steps to contribute:
+### Steps to contribute:
 
 1. Fork the repository.
 2. Create your feature branch: `git checkout -b feature/new-feature`.
@@ -84,11 +84,13 @@ Steps to contribute:
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Open a pull request.
 
-Contact
+## Contact
 
 For any inquiries or feedback, feel free to reach out:
 
-Email: derrickkwanyoike@gmail.com
-GitHub: (https://github.com/Derrick-K-W)
+- **Email**: derrickkwanyoike@gmail.com
+- **GitHub**: (https://github.com/Derrick-K-W)
+
+---
 
 Thank you for checking out this project!
