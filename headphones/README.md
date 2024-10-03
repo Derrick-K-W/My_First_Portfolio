@@ -19,12 +19,12 @@ Cross-browser Compatibility: The webpage will work across all major web browsers
 
 ### Table of Contents
 
-1. Installation
-2. Usage
-3. Technologies
-4. Screenshots
-5. Contributing
-6. Contact
+1. ### Installation
+2. ### Usage
+3. ### Technologies
+4. ### Screenshots
+5. ### Contributing
+6. ### Contact
 
 ### Installation
 To get started with this project, clone the repository and open the files in your favorite code editor.
