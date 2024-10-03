@@ -66,7 +66,7 @@ Open a pull request.
 ### Contact
 For any inquiries or feedback, feel free to reach out:
 
-### Email: derrikkwanyoike@gmail.com
+### Email: derrickkwanyoike@gmail.com
 ### GitHub: https://github.com/Derrick-K-W
 
 
