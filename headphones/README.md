@@ -29,8 +29,8 @@ Cross-browser Compatibility: The webpage will work across all major web browsers
 ### Installation
 To get started with this project, clone the repository and open the files in your favorite code editor.
 
-Copy code
-git clone https://github.com/your-username/project-repo.git
+Copy code:
+### git clone https://github.com/your-username/project-repo.git
 Once cloned, you can open the index.html file in your browser to view the webpage. Ensure you have a modern browser (e.g., Chrome, Firefox, Safari) to display the page as expected.
 
 ### Usage
@@ -38,10 +38,10 @@ After cloning the project, the HTML and CSS files can be customized as per your 
 
 If you'd like to contribute or modify the page:
 
-Clone the repository
-Make your changes
-Push to the branch
-Create a pull request
+1. Clone the repository
+2. Make your changes
+3. Push to the branch
+4. Create a pull request
 
 ### Technologies
 HTML5: Markup language used for creating the structure of the webpage.
@@ -56,12 +56,12 @@ Mobile View:
 ### Contributing
 Contributions are welcome! If you would like to improve the project or fix any issues, feel free to submit a pull request.
 
-Steps to contribute:
-Fork the repository.
-Create your feature branch: git checkout -b feature/new-feature.
-Commit your changes: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Open a pull request.
+### Steps to contribute:
+1. Fork the repository.
+2. Create your feature branch: git checkout -b feature/new-feature.
+3. Commit your changes: git commit -m 'Add new feature'.
+4. Push to the branch: git push origin feature/new-feature.
+5. Open a pull request.
 
 ### Contact
 For any inquiries or feedback, feel free to reach out:
