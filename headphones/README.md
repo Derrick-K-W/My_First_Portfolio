@@ -56,7 +56,7 @@ If you'd like to contribute or modify the page:
 
 ## File Structure
 
- **index.html**: Contains the structure of the webpage.
+- **index.html**: Contains the structure of the webpage.
 - **style.css**: Includes all styling for the webpage, including responsive design rules.
 - **assets/**: Stores any image assets used in the design.
 
